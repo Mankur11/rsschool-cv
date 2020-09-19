@@ -18,7 +18,7 @@ Purposeful developer, constantly improving his skills.
  - keep an eye of product performance
  - deliver functionality on time
  
- ### Experience
+### Experience
  
  - BrandPro advertisement agency (01.2020 - till now) 
      
@@ -29,7 +29,7 @@ Purposeful developer, constantly improving his skills.
       Wrote my apps in React Native and the algorithm constructor in React.
  
  
- ### Education
+### Education
  
  - Automation of technological processes and production, Kemerovo Technological Institute of Food Industry, Kemerovo, Russia.
  
@@ -39,7 +39,7 @@ Purposeful developer, constantly improving his skills.
  
  
  
- ### Language level
+### Language level
  
  English, intermediate
  
