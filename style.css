@@ -1,0 +1,28 @@
+.wrapper {
+  height: 98vh;
+  width: 99vw;
+  background: #888888;
+}
+
+.categories {
+  display: inline-flex;
+}
+
+.avatar {
+  width: 14vw;
+  height: 42vh;
+}
+
+.group{
+padding: 1%;
+}
+
+.headName {
+  font-family: sans-serif;
+  font-size: 3vh;
+}
+
+.positionName {
+  font-family: sans-serif;
+  font-size: 2vh;
+}
